@@ -1,0 +1,11 @@
+[
+    {"name": "service"},
+    {"name": "findUserByUsername"},
+    {"name": "findRoleByName"},
+    {"name": "getGuild"},
+    {"name": "findChannel"},
+    {"name": "getAllRole"},
+    {"name": "findRoleById"}
+
+
+]
